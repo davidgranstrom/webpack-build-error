@@ -1,3 +1,3 @@
-  $ yarn
-  $ yarn run build
 
+    $ yarn
+    $ yarn run build
